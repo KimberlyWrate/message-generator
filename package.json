@@ -1,0 +1,21 @@
+{
+  "name": "message-generator",
+  "version": "1.0.0",
+  "description": "A generator of messages.",
+  "main": "MessageGenerator.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "KimberlyWrate",
+  "license": "OpenSource",
+  "dependencies": {
+    "Jinja2": "^2.8"
+  },
+  "engines": {
+    "node": "4.1.1"
+  }
+}
