@@ -1,1 +1,1 @@
-web: MessageGenerator.py 
+web: python MessageGenerator.py 
