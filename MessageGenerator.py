@@ -94,7 +94,7 @@ def box():
     if message == 35:	
         text = "Pull back on your predictions. If they are not outright wrong, they are certainly incomplete."
     if message == 36:
-        text = "You do not know what’s going to happen, and that’s what makes it exciting. :"
+        text = "You do not know what’s going to happen, and that’s what makes it exciting. :)"
     if message == 37:
         text = "When you change, your reality will change accordingly."
     if message == 38:
