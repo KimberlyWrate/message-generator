@@ -1,7 +1,7 @@
 # Message Generator
 # Display one pre-programmed message at random
 # Meant for use on kimwrate.com
-
+import os
 from flask import Flask
 app = Flask(__name__)
 
